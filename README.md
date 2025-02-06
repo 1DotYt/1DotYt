@@ -17,8 +17,8 @@ Meow 😻
 <h3 align="center">A passionate Website developer from India</h3>
 
 <p align="center">
-<a href="https://github.com/ImPsYchoGod/">
-        <img src="https://komarev.com/ghpvc/?username=ImPsYchoGod&color=red" />
+<a href="https://github.com/1dotYT/">
+        <img src="https://komarev.com/ghpvc/?username=1dotYT&color=red" />
   </a> 
 
 
