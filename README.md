@@ -1,6 +1,5 @@
 Meow 😻
-<h1 align="center">Hello Developers <img src="https://media.discordapp.net/attachments/1269191042775908473/1289798185660846211/nyanners-vtuber.gif?ex=66fa21aa&is=66f8d02a&hm=d11b0a7be12f4635ce47fac3a2236d1a52d8d0ed78e188e281078237a1468a71&" width="25"/></h1>
-
+<h1 align="center">Hello Developers <img src="https://media.discordapp.net/attachments/829658060434833428/1337121580630933545/output_1738864949.gif?ex=67a64b03&is=67a4f983&hm=b4fc82913f7ff0a401489306ad170626d793be7551bacd5439a219982ac05cab&"
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
