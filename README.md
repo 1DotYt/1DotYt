@@ -87,28 +87,8 @@ Developer Website And Games💤<br> <br>  •  I'm GoJo Aka Dot 🥀<br>  •  I
 <p align="center">
 
 
-<a href="https://ko-fi.com/impsycho"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3"
-height="50" width="160" alt="https://ko-fi.com/impsycho" />
-
-<a href="https://www.snapchat.com/add/imshinchanpro"> <img align="left" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" height="50" width="160" alt="https://www.snapchat.com/add/imshinchanpro" />
-
-<a href="https://GitHub.com/ImPsYchoGod"> <img align="left" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="50" width="150" alt="https://GitHub.com/ImPsYchoGod" />
-
-<a href="https://instagram.com/im_psycho"> <img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="50" width="250" alt="https://instagram.com/im_psycho" />
-
-
-
-
-
-
-
-
-
-<a href="https://xbox.com/XpvpnoobYT"> <img align="left" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" height="50" width="150" alt="https://xbox.com/XpvpnoobYT" />
-
-
-<a href="https://discord.gg/8dF4kudsWx"> <img align="left" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="50" width="150" alt="https://discord.gg/8dF4kudsWx" />
-
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/809361585759846400) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ImPsycho37) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im_psycho) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Itz_meAyuu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@1_gojoyt) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Im-Psycho) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:impsycho34@gmail.com) 
 
  
 
