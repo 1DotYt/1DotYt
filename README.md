@@ -40,12 +40,9 @@ Meow 😻
 <p align="center">
   
 
-
 <details> 
    <summary><b>⚡ About me <img src = "https://cdn.discordapp.com/emojis/1057946941150986260.gif" width=20px></b></summary> 
    <br/>
- 
-  
   # 💫 About Me:
 Developer Website And Games💤<br> <br>  •  I'm GoJo Aka Dot 🥀<br>  •  I Am Good At Html , css , python , js , etc .<br>  •  Good At Making animation also in blender.<br>  •  Awards  laziest Person.<br>  •  Content Creator / Blender User.<br>  •  Got A life Partner ahh~ 💍<br><br>BFF <3<br>      •  There is no name That mean it 🪞<br><br>Here u read that much cookie for u 🍪
 
@@ -62,7 +59,9 @@ Developer Website And Games💤<br> <br>  •  I'm GoJo Aka Dot 🥀<br>  •  I
 ![](https://github-contributor-stats.vercel.app/api?username=1dotYt&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 ---
 [![](https://visitcount.itsvg.in/api?id=1dotYt&icon=7&color=4)](https://visitcount.itsvg.in)
+ <br/>  
  </details>  
+ <br/>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=1dotYT&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=1dotYT&theme=blue_navy&hide_border=false)<br/>
