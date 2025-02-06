@@ -1,5 +1,5 @@
 Meow 😻
-<h1 align="center">Hello Developers 🥀<img src=# <img src="" width="25"/></h1>
+<h1 align="center">Hello Developers 🥀</h1>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
