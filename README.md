@@ -9,10 +9,10 @@ Meow 😻
 
 <p align="center">
 
-  <a href="https://github.com/ImPsYchoGod"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+Developers;It+me+Psycho;++;FullStack+Developer,;HTML,+CSS,+PHP,+JAVA,+PYTHON;Made+with+love..<3;"></a> 
+  <a href="https://github.com/1dotYT"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+Developers;It+me+Psycho;++;FullStack+Developer,;HTML,+CSS,+PHP,+JAVA,+PYTHON;Made+with+love..<3;"></a> 
 
  </p> 
-<h3 align="center">I am a Psycho a CS Student & Youtuber who aspires to be a software developer in the near future, I mainly work as a developer on a VoIP platform called Click this                                           <a href="https://discord.gg/8dF4kudsWx">Discord</a></strong> </h3>
+<h3 align="center">I am a Psycho a CS Student & Youtuber who aspires to be a software developer in the near future, I mainly work as a developer on a VoIP platform called Click this                                           <a href="https://discordapp.com/users/809361585759846400">Discord</a></strong> </h3>
 
 <h3 align="center">A passionate Website developer from India</h3>
 
@@ -75,7 +75,7 @@ Developer Website And Games💤<br> <br>  •  I'm GoJo Aka Dot 🥀<br>  •  I
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🌐 Socials: 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/809361585759846400) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ImPsycho37) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im_psycho) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Itz_meAyuu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@1_gojoyt) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Im-Psycho) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:impsycho34@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/809361585759846400) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ImPsycho37) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im_psycho) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Itz_meAyuu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@1_gojoyt) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Im-Psycho) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:impsycho34@gmail.com) 
 
 ## 💰 Accepting donations:
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/https://www.patreon.com/c/1_GoJo)                        [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/1_gojo) 
