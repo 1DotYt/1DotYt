@@ -9,10 +9,10 @@ Meow 😻
 
 <p align="center">
 
-  <a href="https://github.com/1dotYT"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+Developers;It+me+Psycho;++;FullStack+Developer,;HTML,+CSS,+PHP,+JAVA,+PYTHON;Made+with+love..<3;"></a> 
+  <a href="https://github.com/1dotYT"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+Developers;It+me+GoJo;++;FullStack+Developer,;HTML,+CSS,+PHP,+JAVA,+PYTHON;Made+with+love..<3;"></a> 
 
  </p> 
-<h3 align="center">I am a Psycho a CS Student & Youtuber who aspires to be a software developer in the near future, I mainly work as a developer on a VoIP platform called Click this                                           <a href="https://discordapp.com/users/809361585759846400">Discord</a></strong> </h3>
+<h3 align="center">I am a GoJo a CS Student & Youtuber who aspires to be a software developer in the near future, I mainly work as a developer on a VoIP platform called Click this                                           <a href="https://discordapp.com/users/809361585759846400">Discord</a></strong> </h3>
 
 <h3 align="center">A passionate Website developer from India</h3>
 
